@@ -22,8 +22,6 @@ build
 
 .idea
 
-/fuel/vendor
-
 /fuel/app/logs/*/*/*
 
 /fuel/app/cache/*/*
